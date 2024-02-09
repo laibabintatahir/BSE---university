@@ -1,0 +1,47 @@
+Starting "PMS"."EXP_SD_22311-20_36_45":  
+Processing object type SCHEMA_EXPORT/TABLE/TABLE_DATA
+.  estimated "PMS"."EXP_SD_216-19_54_28"                 408.4 KB
+.  estimated "PMS"."EXP_SD_178-19_39_40"                 399.5 KB
+.  estimated "PMS"."EXP_SD_82"                           396.2 KB
+.  estimated "PMS"."EXP_SD_42-14_01_34"                  350.9 KB
+.  estimated "PMS"."ALERGIC_HISTORY"                     4.683 KB
+.  estimated "PMS"."BED"                                 4.683 KB
+.  estimated "PMS"."BIOCHEMICALTESTS"                    4.683 KB
+.  estimated "PMS"."BP_PULSE"                            4.683 KB
+.  estimated "PMS"."CHEMICALTESTS"                       4.683 KB
+.  estimated "PMS"."COMPLAINTS"                          4.683 KB
+.  estimated "PMS"."CONTACT"                             4.683 KB
+.  estimated "PMS"."DISEASE"                             4.683 KB
+.  estimated "PMS"."DOCTOR"                              4.683 KB
+.  estimated "PMS"."DOCTOR_SCHEDULE"                     4.683 KB
+.  estimated "PMS"."DRUG_HIS"                            4.683 KB
+.  estimated "PMS"."ELECTRELOGICALFINDINGS"              4.683 KB
+.  estimated "PMS"."FAMILY_HIS"                          4.683 KB
+.  estimated "PMS"."GEN_PHY_EXAMINATION"                 4.683 KB
+.  estimated "PMS"."HEAMLOGICAL_INVES"                   4.683 KB
+.  estimated "PMS"."HIS_OF_ILLNESS"                      4.683 KB
+.  estimated "PMS"."LAB"                                 4.683 KB
+.  estimated "PMS"."NURSE"                               4.683 KB
+.  estimated "PMS"."NURSE_SCHEDULE"                      4.683 KB
+.  estimated "PMS"."PAST_HIS"                            4.683 KB
+.  estimated "PMS"."PATIENT"                             4.683 KB
+.  estimated "PMS"."PATIENT_BED"                         4.683 KB
+.  estimated "PMS"."PATIENT_BIOCHEMICALTESTS"            4.683 KB
+.  estimated "PMS"."PATIENT_CHEMICALTESTS"               4.683 KB
+.  estimated "PMS"."PATIENT_DZEZ"                        4.683 KB
+.  estimated "PMS"."PATIENT_TREATMENT"                   4.683 KB
+.  estimated "PMS"."PERSONAL_HIS"                        4.683 KB
+.  estimated "PMS"."RADIOLOGICAL_INVES"                  4.683 KB
+.  estimated "PMS"."SCHEDULE"                            4.683 KB
+.  estimated "PMS"."SYSTEMICEXAMINED"                    4.683 KB
+.  estimated "PMS"."TREATMENT"                           4.683 KB
+.  estimated "PMS"."URINEANALYSIS"                       4.683 KB
+Processing object type SCHEMA_EXPORT/TABLE/INDEX/STATISTICS/INDEX_STATISTICS
+Processing object type SCHEMA_EXPORT/TABLE/STATISTICS/TABLE_STATISTICS
+Processing object type SCHEMA_EXPORT/STATISTICS/MARKER
+Processing object type SCHEMA_EXPORT/USER
+Processing object type SCHEMA_EXPORT/SYSTEM_GRANT
+Processing object type SCHEMA_EXPORT/ROLE_GRANT
+Processing object type SCHEMA_EXPORT/DEFAULT_ROLE
+Processing object type SCHEMA_EXPORT/PRE_SCHEMA/PROCACT_SCHEMA
+Processing object type SCHEMA_EXPORT/TABLE/TABLE

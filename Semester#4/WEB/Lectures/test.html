@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    #wrapper {
+        width: 1580px;
+        height: 760px;
+        border: 1px solid black;
+    }
+
+    #header, #footer{
+        height: 200px;
+        border: 1px solid red;
+    }
+
+    #content{
+        height: 360px;
+        position: relative;
+        left: 40%;
+        top: 10%;
+    }
+
+    #contactUs {
+        width: 400px;
+        height: 170px;
+        border: 1px solid green;
+        position: relative;
+        left: 1160px;
+        top: 10px;
+    }
+
+    #contactUs > a {
+        position: absolute;
+        right: 5px;
+        bottom: 5px;
+    }
+
+    #robot {
+        width: 400px;
+        height: 170px;
+        border: 1px solid green;
+        position: relative;
+        left: 1160px;
+        top: 10px;
+    }
+
+</style>
+<body>
+    <div id="wrapper">
+        <div id="header">
+            <div id="contactUs">
+                <a href="#">Contact us</a>
+            </div>
+        </div>
+        <div id="content">
+            <label for="">Email</label> <input type="text"><br><br>
+            <label for="">Query</label> <input type="text"><br><br>
+            <label for=""></label><input type="submit" value="Subscribe">
+        </div>
+        <div id="footer">
+            <div id="robot">
+                <input type="text" style="position: absolute; right: 55px; bottom: 5px">
+                <img src="robot.jpg" alt="" width="50px" height="50px" style="position: absolute; right: 5px; bottom: 0px">
+            </div>
+
+        </div>
+    </div>
+</body>
+</html>

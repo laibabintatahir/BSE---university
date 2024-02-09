@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project Author="Muhammad Masood Khan" CommentTableSortAscending="false" CommentTableSortColumn="Date Time" DocumentationType="html" ExportedFromDifferentName="false" ExporterVersion="16.1.1" Name="untitled" TextualAnalysisHighlightOptionCaseSensitive="false" UmlVersion="2.x" Xml_structure="simple">
+	<ProjectInfo>
+		<LogicalView/>
+		<ProjectOptions>
+			<DiagramOptions ActivityDiagramControlFlowDisplayOption="\u0000" ActivityDiagramShowActionCallBehaviorOption="\u0000" ActivityDiagramShowActivityEdgeWeight="true" ActivityDiagramShowDiagramFrame="true" ActivityDiagramShowObjectNodeType="true" ActivityDiagramShowPartitionHandle="\u0000" AddDataStoresExtEntitiesToDecomposedDFD="\u0002" AlignColumnProperties="true" AllowConfigShowInOutFlowButtonsInDataFlowDiagram="false" AutoGenerateRoleName="false" AutoSetAttributeType="true" AutoSetColumnType="true" AutoSyncRoleName="true" BlockDefinitionDiagramShowDiagramFrame="true" BpPoolLaneDefaultOrientation="\u0000" BpdAutoStretchPools="true" BpdConnectGatewayWithFlowObjectInDifferentPool="\u0000" BpdDefaultConnectionPointStyle="\u0001" BpdDefaultConnectorStyle="\u0005" BpdDhowIdOption="\u0000" BpdShowActivitiesTypeIcon="true" BusinessProcessDiagramDefaultLanguage="English" ClassVisibilityStyle="\u0001" ConnectorLabelOrientation="\u0000" CreateOneMessagePerDirection="true" DecisionMergeNodeConnectionPointStyle="\u0000" DefaultAssociationEndNavigable="\u0001" DefaultAssociationEndVisibility="\u0000" DefaultAssociationShowFromMultiplicity="true" DefaultAssociationShowFromRoleName="true" DefaultAssociationShowFromRoleVisibility="true" DefaultAssociationShowStereotypes="true" DefaultAssociationShowToMultiplicity="true" DefaultAssociationShowToRoleName="true" DefaultAssociationShowToRoleVisibility="true" DefaultAttributeMultiplicity="false" DefaultAttributeType="" DefaultAttributeVisibility="\u0001" DefaultClassAttributeMultiplicity="" DefaultClassAttributeMultiplicityOrdered="false" DefaultClassAttributeMultiplicityUnique="true" DefaultClassInterfaceBall="false" DefaultClassVisibility="\u0004" DefaultColumnType="integer(10)" DefaultConnectionPointStyle="\u0000" DefaultConnectorStyle="\u0001" DefaultDiagramBackground="rgb(255, 255, 255)" DefaultDisplayAsRobustnessAnalysisIcon="true" DefaultDisplayAsRobustnessAnalysisIconInSequenceDiagram="true" DefaultDisplayAsStereotypeIcon="false" DefaultFontColor="rgb(0, 0, 0)" DefaultGenDiagramTypeFromScenario="\u0000" DefaultHtmlDocFontColor="rgb(0, 0, 0)" DefaultLineJumps="\u0000" DefaultOperationVisibility="\u0004" DefaultParameterDirection="\u0002" DefaultShowAttributeInitialValue="true" DefaultShowAttributeOption="\u0001" DefaultShowClassMemberStereotype="true" DefaultShowDirection="false" DefaultShowMultiplicityConstraints="false" DefaultShowOperationOption="\u0001" DefaultShowOperationSignature="true" DefaultShowOrderedMultiplicityConstraint="true" DefaultShowOwnedAssociationEndAsAttribute="true" DefaultShowOwner="false" DefaultShowOwnerSkipModelInFullyQualifiedOwnerSignature="true" DefaultShowReceptionOption="\u0001" DefaultShowTemplateParameter="true" DefaultShowTypeOption="\u0001" DefaultShowUniqueMultiplicityConstraint="true" DefaultTypeOfSubProcess="\u0000" DefaultWrapClassMember="false" DrawTextAnnotationOpenRectangleFollowConnectorEnd="true" EnableMinimumSize="true" EntityColumnConstraintsPresentation="\u0002" ErdIndexNumOfDigits="-1" ErdIndexPattern="{table_name}" ErdIndexPatternSyncAutomatically="true" ErdManyToManyJoinTableDelimiter="_" EtlTableDiagramFontSize="14" ExpandedSubProcessDiagramContent="\u0001" ForeignKeyArrowHeadSize="\u0002" ForeignKeyConnectorEndPointAssociatedColumn="false" ForeignKeyNamePattern="{reference_table_name}{reference_column_name}" ForeignKeyNamePatternCaseHandling="0" ForeignKeyRelationshipPattern="{association_name}" FractionalMetrics="true" GeneralizationSetNotation="\u0001" GraphicAntiAliasing="true" GridDiagramFontSize="14" InteractionDiagramShowDiagramFrame="true" InternalBlockDiagramShowDiagramFrame="true" LineJumpSize="\u0000" ModelElementNameAlignment="\u0004" MultipleLineClassName="\u0001" PackageDiagramShowDiagramFrame="true" PaintConnectorThroughLabel="false" ParametricDiagramShowDiagramFrame="true" PointConnectorEndToCompartmentMember="true" PrimaryKeyConstraintPattern="" PrimaryKeyNamePattern="ID" RenameConstructorAfterRenameClass="\u0000" RenameExtensionPointToFollowExtendUseCase="\u0000" RequirementDiagramShowDiagramFrame="true" ShapeAutoFitSize="false" ShowActivationsInSequenceDiagram="true" ShowActivityStateNodeCaption="524287" ShowArtifactOption="\u0002" ShowAssociatedDiagramNameOfInteraction="false" ShowAssociationRoleStereotypes="true" ShowAttributeGetterSetter="false" ShowBSElementCode="true" ShowClassEmptyCompartments="false" ShowColumnDefaultValue="false" ShowColumnNullable="true" ShowColumnType="true" ShowColumnUniqueConstraintName="false" ShowColumnUserType="false" ShowComponentOption="\u0002" ShowExtraColumnProperties="true" ShowInOutFlowButtonsInDataFlowDiagram="false" ShowInOutFlowsInSubLevelDiagram="true" ShowMessageOperationSignatureForSequenceAndCommunicationDiagram="true" ShowMessageStereotypeInSequenceAndCommunicationDiagram="true" ShowNumberInCollaborationDiagram="true" ShowNumberInSequenceDiagram="true" ShowPackageNameStyle="\u0000" ShowParameterNameInOperationSignature="true" ShowRowGridLineWithinCompClassDiagram="false" ShowRowGridLineWithinCompERD="true" ShowRowGridLineWithinORMDiagram="true" ShowSchemaNameInERD="true" ShowTransitionTrigger="\u0000" ShowUseCaseExtensionPoint="true" ShowUseCaseID="false" SnapConnectorsAfterZoom="false" StateDiagramShowDiagramFrame="true" StateShowParametersOfInternalActivities="false" StateShowPrePostConditionAndBodyOfInternalActivities="true" StopTargetLifelineOnCreateDestroyMessage="\u0002" SupportHtmlTaggedValue="true" SupportMultipleLineAttribute="true" SuppressImpliedMultiplicityForAttributeAssociationEnd="false" SyncAssociationNameWithAssociationClass="\u0000" SyncAssociationRoleNameWithReferencedAttributeName="true" SyncDocOfInterfaceToSubClass="\u0000" TextAntiAliasing="true" TextualAnalysisGenerateRequirementTextOption="\u0001" TextualAnalysisHighlightOption="\u0000" UnnamedIndexPattern="{table_name}_{column_name}" UseCaseDiagramShowDiagramFrame="true" UseStateNameTab="false" WireflowDiagramDevice="0" WireflowDiagramShowActiveFlowLabel="true" WireflowDiagramTheme="0" WireflowDiagramWireflowShowPreview="true" WireflowDiagramWireflowShowScreenId="true">
+				<DefaultHtmlDocFont Family="Dialog" Size="12" Style="0"/>
+			</DiagramOptions>
+			<GeneralOptions ConfirmSubLevelIdWithDot="true" QuickAddGlossaryTermParentModelId="default"/>
+			<InstantReverseOptions CalculateGeneralizationAndRealization="false" CreateShapeForParentModelOfDraggedClassPackage="false" ReverseGetterSetter="\u0000" ReverseOperationImplementation="false" ShowPackageForNewDiagram="\u0001" ShowPackageOwner="\u0000"/>
+			<ModelQualityOptions EnableModelQualityChecking="false"/>
+			<ORMOptions AlterColumnUserType="true" DecimalPrecision="19" DecimalScale="0" ExportCommentToDatabase="true" FormattedSQL="false" GenerateAssociationWithAttribute="false" GenerateDiagramFromORMWizards="true" GetterSetterVisibility="\u0000" IdGeneratorType="native" MappingFileColumnOrder="\u0000" NumericToClassType="\u0000" QuoteSQLIdentifier="\u0000" RecreateShapeWhenSync="false" SyncToClassDiagramAttributeName="\u0001" SyncToClassDiagramAttributeNamePrefix="" SyncToClassDiagramAttributeNameSuffix="" SyncToClassDiagramClassName="\u0000" SyncToClassDiagramClassNamePrefix="" SyncToClassDiagramClassNameSuffix="" SyncToERDColumnName="\u0000" SyncToERDColumnNamePrefix="" SyncToERDColumnNameSuffix="" SyncToERDTableName="\u0004" SyncToERDTableNamePrefix="" SyncToERDTableNameSuffix="" SynchronizeDefaultValueToColumn="false" SynchronizeName="\u0002" TablePerSubclassFKMapping="\u0000" UpperCaseSQL="true" UseDefaultDecimal="true" WrappingServletRequest="\u0001"/>
+			<RequirementDiagramOptions DefaultWrapMember="true" ShowAttributes="\u0001" SupportHTMLAttribute="false"/>
+			<StateCodeEngineOptions AutoCreateInitialStateInStateDiagram="true" AutoCreateTransitionMethods="true" DefaultInitialStateLocationX="-1" DefaultInitialStateLocationY="-1" GenerateDebugMessage="false" GenerateSample="true" GenerateTryCatch="true" Language="\u0000" RegenerateTransitionMethods="false" SyncTransitionMethods="true"/>
+			<WarningOptions CreateORMClassInDefaultPackage="true"/>
+			<PORepository>
+				<POUserIDFormats>
+					<POUserIDFormat Digits="2" Guid="false" Id="cR5L5qGGAqESAQWS" LastNumericValue="0" ModelType="BPMNElement" Prefix="BP" Suffix=""/>
+					<POUserIDFormat Digits="2" Guid="false" Id="cR5L5qGGAqESAQWT" LastNumericValue="0" ModelType="Actor" Prefix="AC" Suffix=""/>
+					<POUserIDFormat Digits="2" Guid="false" Id="cR5L5qGGAqESAQWU" LastNumericValue="0" ModelType="UseCase" Prefix="UC" Suffix=""/>
+					<POUserIDFormat Digits="3" Guid="false" Id="cR5L5qGGAqESAQWV" LastNumericValue="0" ModelType="Requirement" Prefix="REQ" Suffix=""/>
+					<POUserIDFormat Digits="3" Guid="false" Id="cR5L5qGGAqESAQWW" LastNumericValue="0" ModelType="BusinessRule" Prefix="BR" Suffix=""/>
+					<POUserIDFormat Digits="-1" Guid="false" Id="cR5L5qGGAqESAQWX" LastNumericValue="0" ModelType="BusinessProcessDiagram" Prefix="" Suffix=""/>
+				</POUserIDFormats>
+			</PORepository>
+		</ProjectOptions>
+	</ProjectInfo>
+	<Models>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="wU5L5qGGAqESAQBQ" Name="boolean" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T15:55:23.267" PmLastModified="2022-12-31T15:55:42.848" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="TU5L5qGGAqESAQBR" Name="byte" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T15:55:23.314" PmLastModified="2022-12-31T15:55:42.832" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="TU5L5qGGAqESAQBS" Name="char" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T15:55:23.314" PmLastModified="2022-12-31T15:55:42.832" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="TU5L5qGGAqESAQBT" Name="double" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T15:55:23.314" PmLastModified="2022-12-31T15:55:42.832" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="TU5L5qGGAqESAQBU" Name="float" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T15:55:23.314" PmLastModified="2022-12-31T15:55:42.832" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="TU5L5qGGAqESAQBV" Name="int" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T15:55:23.314" PmLastModified="2022-12-31T15:55:42.832" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="TU5L5qGGAqESAQBW" Name="long" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T15:55:23.314" PmLastModified="2022-12-31T15:55:42.832" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="TU5L5qGGAqESAQBX" Name="short" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T15:55:23.314" PmLastModified="2022-12-31T15:55:42.832" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="TU5L5qGGAqESAQBY" Name="void" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T15:55:23.314" PmLastModified="2022-12-31T15:55:42.832" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="TU5L5qGGAqESAQBZ" Name="string" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T15:55:23.314" PmLastModified="2022-12-31T15:55:42.832" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+		<Package Abstract="false" BacklogActivityId="0" ConnectToCodeModel="1" DefaultDiagramId_IsNull="true" Documentation_plain="" Id="VSrr5qGGAqESAQWr" Leaf="false" Name="lms" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.306" PmLastModified="2022-12-31T16:00:56.610" QualityReason_IsNull="true" QualityScore="-1" Root="false" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public">
+			<SubDiagrams>
+				<ClassDiagram Idref="Shrr5qGGAqESAQYa"/>
+			</SubDiagrams>
+			<ModelChildren>
+				<Class Abstract="false" Active="false" BacklogActivityId="0" BusinessKeyMutable="true" BusinessModel="false" ConnectToCodeModel="1" FinalSpecialization="false" Id="9Srr5qGGAqESAQWt" Leaf="false" Name="LMS" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.311" PmLastModified="2022-12-31T16:00:56.610" QualityReason_IsNull="true" QualityScore="-1" Root="false" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public">
+					<JavaDetail>
+						<JavaClassCodeDetail Id="3Srr5qGGAqESAQWv" JavaFinal="false" JavaInterface="false" JavaStatic="false" Name="" NoModelExtendsText="" NoModelImplementsText=""/>
+					</JavaDetail>
+					<ModelChildren>
+						<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Id="_Srr5qGGAqESAQWx" Leaf="false" Lower_IsNull="true" Name="main" Ordered="false" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.327" PmLastModified="2022-12-31T16:00:56.610" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnTypeDocumentation_plain="" Scope="classifier" Static="false" TypeModifier_IsNull="true" Unique="true" Upper="1" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+							<ReturnType>
+								<DataType Idref="TU5L5qGGAqESAQBY" Name="void"/>
+							</ReturnType>
+							<JavaDetail>
+								<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="Myrr5qGGAqESAQWz" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+							</JavaDetail>
+							<ModelChildren>
+								<Parameter BacklogActivityId="0" Direction="inout" Id="Cyrr5qGGAqESAQW1" Multiplicity="Unspecified" Name="args" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.344" PmLastModified="2022-12-31T16:00:56.610" QualityReason_IsNull="true" QualityScore="-1" Type="String" TypeModifier="[]" UserIDLastNumericValue="0" UserID_IsNull="true">
+									<JavaDetail>
+										<JavaParameterCodeDetail ByReference="false" Id="myrr5qGGAqESAQW3" JavaFinal="false" Name="" Params="false"/>
+									</JavaDetail>
+								</Parameter>
+							</ModelChildren>
+						</Operation>
+					</ModelChildren>
+				</Class>
+				<Class Abstract="false" Active="false" BacklogActivityId="0" BusinessKeyMutable="true" BusinessModel="false" ConnectToCodeModel="1" Documentation="&lt;HTML&gt;&lt;BODY&gt;&lt;p style=&quot;margin-top: 0&quot;&gt;@author Muhammad Masood Khan&lt;/p&gt;&lt;/BODY&gt;&lt;/HTML&gt;" Documentation_plain="@author Muhammad Masood Khan" FinalSpecialization="false" Id="Wyrr5qGGAqESAQW4" Leaf="false" Name="Login" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.354" PmLastModified="2022-12-31T16:00:56.614" QualityReason_IsNull="true" QualityScore="-1" Root="false" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public">
+					<JavaDetail>
+						<JavaClassCodeDetail Id="2yrr5qGGAqESAQW5" JavaFinal="false" JavaInterface="false" JavaStatic="false" Name="" NoModelExtendsText="JFrame" NoModelImplementsText=""/>
+					</JavaDetail>
+					<ModelChildren>
+						<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" HasGetter="false" HasSetter="false" Id="5yrr5qGGAqESAQW7" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="mainPanel" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.367" PmLastModified="2022-12-31T16:00:56.614" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="JPanel" TypeModifier_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true">
+							<JavaDetail>
+								<JavaAttributeCodeDetail Id="Nyrr5qGGAqESAQW9" Indexer="false" IndexerParameterList_IsNull="true" JavaFinal="false" JavaTransient="false" JavaVolatile="false" Name=""/>
+							</JavaDetail>
+						</Attribute>
+						<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" HasGetter="false" HasSetter="false" Id="tyrr5qGGAqESAQW." IsID="false" Leaf="false" Multiplicity="Unspecified" Name="tP" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.373" PmLastModified="2022-12-31T16:00:56.614" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="JPanel" TypeModifier_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true">
+							<JavaDetail>
+								<JavaAttributeCodeDetail Id="dyrr5qGGAqESAQW_" Indexer="false" IndexerParameterList_IsNull="true" JavaFinal="false" JavaTransient="false" JavaVolatile="false" Name=""/>
+							</JavaDetail>
+						</Attribute>
+						<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" HasGetter="false" HasSetter="false" Id="dyrr5qGGAqESAQXA" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="mP" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.374" PmLastModified="2022-12-31T16:00:56.614" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="JPanel" TypeModifier_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true">
+							<JavaDetail>
+								<JavaAttributeCodeDetail Id="9yrr5qGGAqESAQXB" Indexer="false" IndexerParameterList_IsNull="true" JavaFinal="false" JavaTransient="false" JavaVolatile="false" Name=""/>
+							</JavaDetail>
+						</Attribute>
+						<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" HasGetter="false" HasSetter="false" Id="Dyrr5qGGAqESAQXC" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="bp" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.376" PmLastModified="2022-12-31T16:00:56.614" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="JPanel" TypeModifier_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true">
+							<JavaDetail>
+								<JavaAttributeCodeDetail Id="jyrr5qGGAqESAQXD" Indexer="false" IndexerParameterList_IsNull="true" JavaFinal="false" JavaTransient="false" JavaVolatile="false" Name=""/>
+							</JavaDetail>
+						</Attribute>
+						<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" HasGetter="false" HasSetter="false" Id="jyrr5qGGAqESAQXE" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="lblTitle" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.377" PmLastModified="2022-12-31T16:00:56.614" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="JLabel" TypeModifier_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true">
+							<JavaDetail>
+								<JavaAttributeCodeDetail Id="Tyrr5qGGAqESAQXF" Indexer="false" IndexerParameterList_IsNull="true" JavaFinal="false" JavaTransient="false" JavaVolatile="false" Name=""/>
+							</JavaDetail>
+						</Attribute>
+						<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" HasGetter="false" HasSetter="false" Id="Tyrr5qGGAqESAQXG" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="lblTitle2" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.378" PmLastModified="2022-12-31T16:00:56.614" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="JLabel" TypeModifier_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true">
+							<JavaDetail>
+								<JavaAttributeCodeDetail Id="zyrr5qGGAqESAQXH" Indexer="false" IndexerParameterList_IsNull="true" JavaFinal="false" JavaTransient="false" JavaVolatile="false" Name=""/>
+							</JavaDetail>
+						</Attribute>
+						<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" HasGetter="false" HasSetter="false" Id="zyrr5qGGAqESAQXI" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="lblEmail" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.379" PmLastModified="2022-12-31T16:00:56.615" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="JLabel" TypeModifier_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true">
+							<JavaDetail>
+								<JavaAttributeCodeDetail Id="Lyrr5qGGAqESAQXJ" Indexer="false" IndexerParameterList_IsNull="true" JavaFinal="false" JavaTransient="false" JavaVolatile="false" Name=""/>
+							</JavaDetail>
+						</Attribute>
+						<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" HasGetter="false" HasSetter="false" Id="byrr5qGGAqESAQXK" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="lblPass" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.382" PmLastModified="2022-12-31T16:00:56.615" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="JLabel" TypeModifier_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true">
+							<JavaDetail>
+								<JavaAttributeCodeDetail Id="7yrr5qGGAqESAQXL" Indexer="false" IndexerParameterList_IsNull="true" JavaFinal="false" JavaTransient="false" JavaVolatile="false" Name=""/>
+							</JavaDetail>
+						</Attribute>
+						<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" HasGetter="false" HasSetter="false" Id="7yrr5qGGAqESAQXM" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="txtEmail" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.383" PmLastModified="2022-12-31T16:00:56.615" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="JTextField" TypeModifier_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true">
+							<JavaDetail>
+								<JavaAttributeCodeDetail Id="Hyrr5qGGAqESAQXN" Indexer="false" IndexerParameterList_IsNull="true" JavaFinal="false" JavaTransient="false" JavaVolatile="false" Name=""/>
+							</JavaDetail>
+						</Attribute>
+						<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" HasGetter="false" HasSetter="false" Id="nyrr5qGGAqESAQXO" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="pass" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.385" PmLastModified="2022-12-31T16:00:56.615" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="JPasswordField" TypeModifier_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true">
+							<JavaDetail>
+								<JavaAttributeCodeDetail Id="Xyrr5qGGAqESAQXP" Indexer="false" IndexerParameterList_IsNull="true" JavaFinal="false" JavaTransient="false" JavaVolatile="false" Name=""/>
+							</JavaDetail>
+						</Attribute>
+						<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" HasGetter="false" HasSetter="false" Id="Xyrr5qGGAqESAQXQ" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="btnsignin" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.386" PmLastModified="2022-12-31T16:00:56.615" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="JButton" TypeModifier_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true">
+							<JavaDetail>
+								<JavaAttributeCodeDetail Id="Pyrr5qGGAqESAQXR" Indexer="false" IndexerParameterList_IsNull="true" JavaFinal="false" JavaTransient="false" JavaVolatile="false" Name=""/>
+							</JavaDetail>
+						</Attribute>
+						<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" HasGetter="false" HasSetter="false" Id="Pyrr5qGGAqESAQXS" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="btnsignup" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.388" PmLastModified="2022-12-31T16:00:56.615" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="JButton" TypeModifier_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true">
+							<JavaDetail>
+								<JavaAttributeCodeDetail Id="fyrr5qGGAqESAQXT" Indexer="false" IndexerParameterList_IsNull="true" JavaFinal="false" JavaTransient="false" JavaVolatile="false" Name=""/>
+							</JavaDetail>
+						</Attribute>
+						<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" HasGetter="false" HasSetter="false" Id="fyrr5qGGAqESAQXU" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="cb" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.390" PmLastModified="2022-12-31T16:00:56.615" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="JCheckBox" TypeModifier_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true">
+							<JavaDetail>
+								<JavaAttributeCodeDetail Id="_yrr5qGGAqESAQXV" Indexer="false" IndexerParameterList_IsNull="true" JavaFinal="false" JavaTransient="false" JavaVolatile="false" Name=""/>
+							</JavaDetail>
+						</Attribute>
+						<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" HasGetter="false" HasSetter="false" Id="_yrr5qGGAqESAQXW" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="lightblueclr" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.391" PmLastModified="2022-12-31T16:00:56.615" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="Color" TypeModifier_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true">
+							<JavaDetail>
+								<JavaAttributeCodeDetail Id="AKrr5qGGAqESAQXX" Indexer="false" IndexerParameterList_IsNull="true" JavaFinal="false" JavaTransient="false" JavaVolatile="false" Name=""/>
+							</JavaDetail>
+						</Attribute>
+						<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" HasGetter="false" HasSetter="false" Id="gKrr5qGGAqESAQXY" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="frame" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.393" PmLastModified="2022-12-31T16:00:56.615" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="JFrame" TypeModifier_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true">
+							<JavaDetail>
+								<JavaAttributeCodeDetail Id="QKrr5qGGAqESAQXZ" Indexer="false" IndexerParameterList_IsNull="true" JavaFinal="false" JavaTransient="false" JavaVolatile="false" Name=""/>
+							</JavaDetail>
+						</Attribute>
+						<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Id="QKrr5qGGAqESAQXa" Leaf="false" Lower_IsNull="true" Name="Login" Ordered="false" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.394" PmLastModified="2022-12-31T16:00:56.615" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper="1" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+							<JavaDetail>
+								<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="wKrr5qGGAqESAQXb" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+							</JavaDetail>
+						</Operation>
+						<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation="&lt;HTML&gt;&lt;BODY&gt;&lt;p style=&quot;margin-top: 0&quot;&gt;public void loc(){System.out.println(this.getX()+&quot;fgh&quot;+this.getY());}&lt;/p&gt;&lt;/BODY&gt;&lt;/HTML&gt;" Documentation_plain="public void loc(){System.out.println(this.getX()+&quot;fgh&quot;+this.getY());}" Id="wKrr5qGGAqESAQXc" Leaf="false" Lower_IsNull="true" Name="initialize" Ordered="false" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.395" PmLastModified="2022-12-31T16:00:56.615" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier_IsNull="true" Unique="true" Upper="1" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true">
+							<ReturnType>
+								<DataType Idref="TU5L5qGGAqESAQBY" Name="void"/>
+							</ReturnType>
+							<JavaDetail>
+								<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="IKrr5qGGAqESAQXd" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+							</JavaDetail>
+							<ModelChildren>
+								<Parameter BacklogActivityId="0" Direction="inout" Id="IKrr5qGGAqESAQXe" Multiplicity="Unspecified" Name="frame" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.396" PmLastModified="2022-12-31T16:00:56.615" QualityReason_IsNull="true" QualityScore="-1" Type="JFrame" TypeModifier_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true">
+									<JavaDetail>
+										<JavaParameterCodeDetail ByReference="false" Id="oKrr5qGGAqESAQXf" JavaFinal="false" Name="" Params="false"/>
+									</JavaDetail>
+								</Parameter>
+							</ModelChildren>
+						</Operation>
+						<Class Abstract="false" Active="false" BacklogActivityId="0" BusinessKeyMutable="true" BusinessModel="false" ConnectToCodeModel="1" FinalSpecialization="false" Id="oKrr5qGGAqESAQXg" Leaf="false" Name="TextHandler" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.397" PmLastModified="2022-12-31T16:00:56.614" QualityReason_IsNull="true" QualityScore="-1" Root="false" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="package">
+							<JavaDetail>
+								<JavaClassCodeDetail Id="YKrr5qGGAqESAQXh" JavaFinal="false" JavaInterface="false" JavaStatic="false" Name="" NoModelExtendsText="" NoModelImplementsText="ActionListener"/>
+							</JavaDetail>
+							<ModelChildren>
+								<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Id="4Krr5qGGAqESAQXi" Leaf="false" Lower_IsNull="true" Name="actionPerformed" Ordered="false" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.399" PmLastModified="2022-12-31T16:00:56.614" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier_IsNull="true" Unique="true" Upper="1" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+									<ReturnType>
+										<DataType Idref="TU5L5qGGAqESAQBY" Name="void"/>
+									</ReturnType>
+									<JavaDetail>
+										<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="kKrr5qGGAqESAQXj" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+									</JavaDetail>
+									<ModelChildren>
+										<Parameter BacklogActivityId="0" Direction="inout" Id="kKrr5qGGAqESAQXk" Multiplicity="Unspecified" Name="e" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.401" PmLastModified="2022-12-31T16:00:56.614" QualityReason_IsNull="true" QualityScore="-1" Type="ActionEvent" TypeModifier_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true">
+											<JavaDetail>
+												<JavaParameterCodeDetail ByReference="false" Id="UKrr5qGGAqESAQXl" JavaFinal="false" Name="" Params="false"/>
+											</JavaDetail>
+										</Parameter>
+									</ModelChildren>
+								</Operation>
+							</ModelChildren>
+						</Class>
+						<Class Abstract="false" Active="false" BacklogActivityId="0" BusinessKeyMutable="true" BusinessModel="false" ConnectToCodeModel="1" FinalSpecialization="false" Id="UKrr5qGGAqESAQXm" Leaf="false" Name="ItemHandler" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.402" PmLastModified="2022-12-31T16:00:56.612" QualityReason_IsNull="true" QualityScore="-1" Root="false" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="package">
+							<JavaDetail>
+								<JavaClassCodeDetail Id="MKrr5qGGAqESAQXn" JavaFinal="false" JavaInterface="false" JavaStatic="false" Name="" NoModelExtendsText="" NoModelImplementsText="ItemListener"/>
+							</JavaDetail>
+							<ModelChildren>
+								<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Id="MKrr5qGGAqESAQXo" Leaf="false" Lower_IsNull="true" Name="itemStateChanged" Ordered="false" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.404" PmLastModified="2022-12-31T16:00:56.612" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier_IsNull="true" Unique="true" Upper="1" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+									<ReturnType>
+										<DataType Idref="TU5L5qGGAqESAQBY" Name="void"/>
+									</ReturnType>
+									<JavaDetail>
+										<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="MKrr5qGGAqESAQXp" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false">
+											<Annotations>
+												<JavaAnnotation BacklogActivityId="0" Documentation_plain="" Id="MKrr5qGGAqESAQXr" Name="Override" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.404" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+											</Annotations>
+										</JavaOperationCodeDetail>
+									</JavaDetail>
+									<ModelChildren>
+										<Parameter BacklogActivityId="0" Direction="inout" Id="iKrr5qGGAqESAQXs" Multiplicity="Unspecified" Name="e" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.409" PmLastModified="2022-12-31T16:00:56.612" QualityReason_IsNull="true" QualityScore="-1" Type="ItemEvent" TypeModifier_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true">
+											<JavaDetail>
+												<JavaParameterCodeDetail ByReference="false" Id="SKrr5qGGAqESAQXt" JavaFinal="false" Name="" Params="false"/>
+											</JavaDetail>
+										</Parameter>
+									</ModelChildren>
+								</Operation>
+							</ModelChildren>
+						</Class>
+					</ModelChildren>
+				</Class>
+				<Class Abstract="false" Active="false" BacklogActivityId="0" BusinessKeyMutable="true" BusinessModel="false" ConnectToCodeModel="1" FinalSpecialization="false" Id="yKrr5qGGAqESAQXu" Leaf="false" Name="funcitonalityPage" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.411" PmLastModified="2022-12-31T16:00:56.604" QualityReason_IsNull="true" QualityScore="-1" Root="false" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public">
+					<JavaDetail>
+						<JavaClassCodeDetail Id="aKrr5qGGAqESAQXv" JavaFinal="false" JavaInterface="false" JavaStatic="false" Name="" NoModelExtendsText="JFrame" NoModelImplementsText=""/>
+					</JavaDetail>
+					<ModelChildren>
+						<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" HasGetter="false" HasSetter="false" Id="GKrr5qGGAqESAQXw" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="tP" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.416" PmLastModified="2022-12-31T16:00:56.605" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="JPanel" TypeModifier_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true">
+							<JavaDetail>
+								<JavaAttributeCodeDetail Id="WKrr5qGGAqESAQXx" Indexer="false" IndexerParameterList_IsNull="true" JavaFinal="false" JavaTransient="false" JavaVolatile="false" Name=""/>
+							</JavaDetail>
+						</Attribute>
+						<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" HasGetter="false" HasSetter="false" Id="2Krr5qGGAqESAQXy" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="cp" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.419" PmLastModified="2022-12-31T16:00:56.605" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="JPanel" TypeModifier_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true">
+							<JavaDetail>
+								<JavaAttributeCodeDetail Id="OKrr5qGGAqESAQXz" Indexer="false" IndexerParameterList_IsNull="true" JavaFinal="false" JavaTransient="false" JavaVolatile="false" Name=""/>
+							</JavaDetail>
+						</Attribute>
+						<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" HasGetter="false" HasSetter="false" Id="OKrr5qGGAqESAQX0" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="tpEp" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.420" PmLastModified="2022-12-31T16:00:56.605" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="JPanel" TypeModifier_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true">
+							<JavaDetail>
+								<JavaAttributeCodeDetail Id="uKrr5qGGAqESAQX1" Indexer="false" IndexerParameterList_IsNull="true" JavaFinal="false" JavaTransient="false" JavaVolatile="false" Name=""/>
+							</JavaDetail>
+						</Attribute>
+						<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" HasGetter="false" HasSetter="false" Id="eKrr5qGGAqESAQX2" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="tpcp" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.422" PmLastModified="2022-12-31T16:00:56.605" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="JPanel" TypeModifier_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true">
+							<JavaDetail>
+								<JavaAttributeCodeDetail Id=".Krr5qGGAqESAQX3" Indexer="false" IndexerParameterList_IsNull="true" JavaFinal="false" JavaTransient="false" JavaVolatile="false" Name=""/>
+							</JavaDetail>
+						</Attribute>
+						<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" HasGetter="false" HasSetter="false" Id=".Krr5qGGAqESAQX4" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="mainpanel" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.423" PmLastModified="2022-12-31T16:00:56.605" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="classifier" Type="JPanel" TypeModifier_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+							<JavaDetail>
+								<JavaAttributeCodeDetail Id="BKrr5qGGAqESAQX5" Indexer="false" IndexerParameterList_IsNull="true" JavaFinal="false" JavaTransient="false" JavaVolatile="false" Name=""/>
+							</JavaDetail>
+						</Attribute>
+						<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" HasGetter="false" HasSetter="false" Id="BKrr5qGGAqESAQX6" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="lblTitle" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.425" PmLastModified="2022-12-31T16:00:56.605" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="JLabel" TypeModifier_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true">
+							<JavaDetail>
+								<JavaAttributeCodeDetail Id="RKrr5qGGAqESAQX7" Indexer="false" IndexerParameterList_IsNull="true" JavaFinal="false" JavaTransient="false" JavaVolatile="false" Name=""/>
+							</JavaDetail>
+						</Attribute>
+						<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" HasGetter="false" HasSetter="false" Id="RKrr5qGGAqESAQX8" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="btnborrow" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.426" PmLastModified="2022-12-31T16:00:56.605" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="JButton" TypeModifier_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true">
+							<JavaDetail>
+								<JavaAttributeCodeDetail Id="xKrr5qGGAqESAQX9" Indexer="false" IndexerParameterList_IsNull="true" JavaFinal="false" JavaTransient="false" JavaVolatile="false" Name=""/>
+							</JavaDetail>
+						</Attribute>
+						<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" HasGetter="false" HasSetter="false" Id="JKrr5qGGAqESAQX." IsID="false" Leaf="false" Multiplicity="Unspecified" Name="btnadd" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.428" PmLastModified="2022-12-31T16:00:56.605" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="JButton" TypeModifier_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true">
+							<JavaDetail>
+								<JavaAttributeCodeDetail Id="pKrr5qGGAqESAQX_" Indexer="false" IndexerParameterList_IsNull="true" JavaFinal="false" JavaTransient="false" JavaVolatile="false" Name=""/>
+							</JavaDetail>
+						</Attribute>
+						<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" HasGetter="false" HasSetter="false" Id="pKrr5qGGAqESAQYA" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="btnreturn" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.429" PmLastModified="2022-12-31T16:00:56.605" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="JButton" TypeModifier_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true">
+							<JavaDetail>
+								<JavaAttributeCodeDetail Id="ZKrr5qGGAqESAQYB" Indexer="false" IndexerParameterList_IsNull="true" JavaFinal="false" JavaTransient="false" JavaVolatile="false" Name=""/>
+							</JavaDetail>
+						</Attribute>
+						<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" HasGetter="false" HasSetter="false" Id="ZKrr5qGGAqESAQYC" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="btndelete" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.430" PmLastModified="2022-12-31T16:00:56.605" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="JButton" TypeModifier_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true">
+							<JavaDetail>
+								<JavaAttributeCodeDetail Id="5Krr5qGGAqESAQYD" Indexer="false" IndexerParameterList_IsNull="true" JavaFinal="false" JavaTransient="false" JavaVolatile="false" Name=""/>
+							</JavaDetail>
+						</Attribute>
+						<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" HasGetter="false" HasSetter="false" Id="5Krr5qGGAqESAQYE" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="btnback" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.431" PmLastModified="2022-12-31T16:00:56.605" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="JButton" TypeModifier_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true">
+							<JavaDetail>
+								<JavaAttributeCodeDetail Id="FKrr5qGGAqESAQYF" Indexer="false" IndexerParameterList_IsNull="true" JavaFinal="false" JavaTransient="false" JavaVolatile="false" Name=""/>
+							</JavaDetail>
+						</Attribute>
+						<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" HasGetter="false" HasSetter="false" Id="lKrr5qGGAqESAQYG" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="frame" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.433" PmLastModified="2022-12-31T16:00:56.605" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="JFrame" TypeModifier_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true">
+							<JavaDetail>
+								<JavaAttributeCodeDetail Id="VKrr5qGGAqESAQYH" Indexer="false" IndexerParameterList_IsNull="true" JavaFinal="false" JavaTransient="false" JavaVolatile="false" Name=""/>
+							</JavaDetail>
+						</Attribute>
+						<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Id="VKrr5qGGAqESAQYI" Leaf="false" Lower_IsNull="true" Name="funcitonalityPage" Ordered="false" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.434" PmLastModified="2022-12-31T16:00:56.605" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper="1" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="package" Visible="true">
+							<JavaDetail>
+								<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="NKrr5qGGAqESAQYJ" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+							</JavaDetail>
+						</Operation>
+						<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Id="NKrr5qGGAqESAQYK" Leaf="false" Lower_IsNull="true" Name="initializer" Ordered="false" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.436" PmLastModified="2022-12-31T16:00:56.605" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier_IsNull="true" Unique="true" Upper="1" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="package" Visible="true">
+							<ReturnType>
+								<DataType Idref="TU5L5qGGAqESAQBY" Name="void"/>
+							</ReturnType>
+							<JavaDetail>
+								<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="tKrr5qGGAqESAQYL" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+							</JavaDetail>
+						</Operation>
+						<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Id="tKrr5qGGAqESAQYM" Leaf="false" Lower_IsNull="true" Name="Disposeframe" Ordered="false" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.437" PmLastModified="2022-12-31T16:00:56.605" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier_IsNull="true" Unique="true" Upper="1" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="package" Visible="true">
+							<ReturnType>
+								<DataType Idref="TU5L5qGGAqESAQBY" Name="void"/>
+							</ReturnType>
+							<JavaDetail>
+								<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="dKrr5qGGAqESAQYN" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false"/>
+							</JavaDetail>
+							<ModelChildren>
+								<Parameter BacklogActivityId="0" Direction="inout" Id="dKrr5qGGAqESAQYO" Multiplicity="Unspecified" Name="b" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.438" PmLastModified="2022-12-31T16:00:56.605" QualityReason_IsNull="true" QualityScore="-1" Type="JButton" TypeModifier_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true">
+									<JavaDetail>
+										<JavaParameterCodeDetail ByReference="false" Id="DKrr5qGGAqESAQYP" JavaFinal="false" Name="" Params="false"/>
+									</JavaDetail>
+								</Parameter>
+							</ModelChildren>
+						</Operation>
+						<Class Abstract="false" Active="false" BacklogActivityId="0" BusinessKeyMutable="true" BusinessModel="false" ConnectToCodeModel="1" FinalSpecialization="false" Id="DKrr5qGGAqESAQYQ" Leaf="false" Name="ButtonHandler" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.440" PmLastModified="2022-12-31T16:00:56.612" QualityReason_IsNull="true" QualityScore="-1" Root="false" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="package">
+							<JavaDetail>
+								<JavaClassCodeDetail Id="jKrr5qGGAqESAQYR" JavaFinal="false" JavaInterface="false" JavaStatic="false" Name="" NoModelExtendsText="" NoModelImplementsText="java.awt.event.ActionListener"/>
+							</JavaDetail>
+							<ModelChildren>
+								<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Id="jKrr5qGGAqESAQYS" Leaf="false" Lower_IsNull="true" Name="actionPerformed" Ordered="false" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.441" PmLastModified="2022-12-31T16:00:56.613" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier_IsNull="true" Unique="true" Upper="1" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+									<ReturnType>
+										<DataType Idref="TU5L5qGGAqESAQBY" Name="void"/>
+									</ReturnType>
+									<JavaDetail>
+										<JavaOperationCodeDetail Constructor="false" Delegate="false" Destructor="false" Extern="false" Id="TKrr5qGGAqESAQYT" JavaBodyCode_IsNull="true" JavaFinal="false" JavaNative="false" JavaSynchronized="false" JavaThrows_IsNull="true" Name="" Operator="false" OperatorType="Unspecified" Virtual="false">
+											<Annotations>
+												<JavaAnnotation BacklogActivityId="0" Documentation_plain="" Id="TKrr5qGGAqESAQYU" Name="Override" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.442" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+											</Annotations>
+										</JavaOperationCodeDetail>
+									</JavaDetail>
+									<ModelChildren>
+										<Parameter BacklogActivityId="0" Direction="inout" Id="zKrr5qGGAqESAQYV" Multiplicity="Unspecified" Name="e" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:43.443" PmLastModified="2022-12-31T16:00:56.613" QualityReason_IsNull="true" QualityScore="-1" Type="java.awt.event.ActionEvent" TypeModifier_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true">
+											<JavaDetail>
+												<JavaParameterCodeDetail ByReference="false" Id="zKrr5qGGAqESAQYW" JavaFinal="false" Name="" Params="false"/>
+											</JavaDetail>
+										</Parameter>
+									</ModelChildren>
+								</Operation>
+							</ModelChildren>
+						</Class>
+					</ModelChildren>
+				</Class>
+			</ModelChildren>
+		</Package>
+	</Models>
+	<Diagrams>
+		<ClassDiagram AlignToGrid="false" AutoFitShapesSize="false" ClassFitSizeWhenShowHideMember="true" ConnectionPointStyle="0" ConnectorLabelOrientation="0" ConnectorLineJumps="0" ConnectorLineJumpsSize="0" ConnectorModelElementNameAlignment="4" ConnectorStyle="1" DiagramBackground="rgb(255, 255, 255)" Editable="true" FilterByViewpointLegend="true" FollowDiagramParentElement="true" GeneralizationSetNotation="2" GridColor="rgb(192, 192, 192)" GridHeight="10" GridVisible="false" GridWidth="10" Height="565" HideConnectorIfFromToIsHidden="0" HideEmptyTaggedValues="false" Id="lp9L5qGGAqESAQWd" ImageHeight="0" ImageScale="1.0" ImageWidth="0" InitializeDiagramForCreate="true" Maximized="false" ModelElementNameAlignment="4" Name="Class Diagram1" PaintConnectorThroughLabel="1" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T15:55:57.801" PointConnectorEndToCompartmentMember="true" QualityScore="-1" RequestFitSizeWithPromptUser="false" RequestValidateSnapToGrid="false" ShapePresentationOption="0" ShowActivityStateNodeCaption="524287" ShowAllocatedFrom="true" ShowAllocatedTo="true" ShowAssociationNavigationArrows="3" ShowAttributeGetterSetter="false" ShowAttributesCodeDetails="2" ShowAttributesPropertyModifiers="2" ShowAttributesType="1" ShowClassEmptyCompartments="2" ShowClassOwner="2" ShowClassReferencedAttributes="true" ShowColorLegend="false" ShowConnectorLegend="false" ShowConnectorName="0" ShowConstraints="false" ShowDefaultPackage="true" ShowEllipsisForUnshownClassMembers="2" ShowInformationItemOption="2" ShowOperationsCodeDetails="2" ShowOperationsParameters="1" ShowOperationsReturnType="1" ShowPMAuthor="false" ShowPMDifficulty="false" ShowPMDiscipline="false" ShowPMIteration="false" ShowPMPhase="false" ShowPMPriority="false" ShowPMStatus="false" ShowPMVersion="false" ShowPackageNameStyle="0" ShowPackageOwner="2" ShowParametersCodeDetails="2" ShowRelationshipConstraintExpression="false" ShowShapeLegend="false" ShowShapeStereotypeIconName="true" ShowStereotypes="true" ShowTaggedValues="false" ShowTemplateInfoOfGeneralizationAndRealization="false" SuppressImplied1MultiplicityForAttributeAndAssociationEnd="false" TeamworkCreateDateTime="0" TrimmedHeight="0" TrimmedWidth="0" Width="1340" X="0" Y="0" ZoomRatio="1.0" _globalPaletteOption="true" documentation="&lt;html&gt;&#13;&#10;  &lt;head&gt;&#13;&#10;    &lt;style type=&quot;text/css&quot;&gt;&#10;      &lt;!--&#10;        body { color: #000000; font-family: Dialog; font-size: 12px }&#10;      --&gt;&#10;    &lt;/style&gt;&#13;&#10;    &#13;&#10;  &lt;/head&gt;&#13;&#10;  &lt;body&gt;&#13;&#10;    &lt;p&gt;&#13;&#10;      &#13;&#10;    &lt;/p&gt;&#13;&#10;  &lt;/body&gt;&#13;&#10;&lt;/html&gt;&#13;&#10;"/>
+		<ClassDiagram AlignToGrid="false" AutoFitShapesSize="false" ClassFitSizeWhenShowHideMember="true" ConnectionPointStyle="0" ConnectorLabelOrientation="0" ConnectorLineJumps="0" ConnectorLineJumpsSize="0" ConnectorModelElementNameAlignment="4" ConnectorStyle="1" DiagramBackground="rgb(255, 255, 255)" Editable="true" FilterByViewpointLegend="true" FollowDiagramParentElement="true" GeneralizationSetNotation="2" GridColor="rgb(192, 192, 192)" GridHeight="10" GridVisible="false" GridWidth="10" Height="565" HideConnectorIfFromToIsHidden="0" HideEmptyTaggedValues="false" Id="Shrr5qGGAqESAQYa" ImageHeight="0" ImageScale="1.0" ImageWidth="0" InitializeDiagramForCreate="false" Maximized="true" ModelElementNameAlignment="4" Name="lms" PaintConnectorThroughLabel="1" ParentModel="VSrr5qGGAqESAQWr" PmAuthor="Muhammad Masood Khan" PmCreateDateTime="2022-12-31T16:00:44.242" PmLastModified="2022-12-31T16:03:04.554" PointConnectorEndToCompartmentMember="true" QualityScore="-1" RequestFitSizeWithPromptUser="false" RequestValidateSnapToGrid="false" ShapePresentationOption="0" ShowActivityStateNodeCaption="524287" ShowAllocatedFrom="true" ShowAllocatedTo="true" ShowAssociationNavigationArrows="3" ShowAttributeGetterSetter="false" ShowAttributesCodeDetails="2" ShowAttributesPropertyModifiers="2" ShowAttributesType="1" ShowClassEmptyCompartments="2" ShowClassOwner="2" ShowClassReferencedAttributes="true" ShowColorLegend="false" ShowConnectorLegend="false" ShowConnectorName="0" ShowConstraints="false" ShowDefaultPackage="true" ShowEllipsisForUnshownClassMembers="2" ShowInformationItemOption="2" ShowOperationsCodeDetails="2" ShowOperationsParameters="1" ShowOperationsReturnType="1" ShowPMAuthor="false" ShowPMDifficulty="false" ShowPMDiscipline="false" ShowPMIteration="false" ShowPMPhase="false" ShowPMPriority="false" ShowPMStatus="false" ShowPMVersion="false" ShowPackageNameStyle="0" ShowPackageOwner="2" ShowParametersCodeDetails="2" ShowRelationshipConstraintExpression="false" ShowShapeLegend="false" ShowShapeStereotypeIconName="true" ShowStereotypes="true" ShowTaggedValues="false" ShowTemplateInfoOfGeneralizationAndRealization="false" SuppressImplied1MultiplicityForAttributeAndAssociationEnd="false" TeamworkCreateDateTime="0" TrimmedHeight="0" TrimmedWidth="0" Width="1340" X="0" Y="0" ZoomRatio="1.0" _globalPaletteOption="true">
+			<Shapes>
+				<Class AttributeSortType="0" Background="rgb(122, 207, 245)" ConnectToPoint="false" ConnectionPointType="2" CoverConnector="false" DisplayAsRobustnessAnalysisIcon="true" EnumerationLiteralSortType="0" Foreground="rgb(0, 0, 0)" Height="40" Id="hrrr5qGGAqESAQYc" InterfaceBall="false" KShDrOp="false" KSwCsMbSt="true" LShCmMl="false" LshRfAts="0" MShDrAt="false" MSwTpPts="true" MetaModelElement="9Srr5qGGAqESAQWt" Model="9Srr5qGGAqESAQWt" ModelElementNameAlignment="9" Name="LMS" OperationSortType="0" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="0" ParentConnectorLineLength="0" PresentationOption="4" PrimitiveShapeType="0" ReceptionSortType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowAttributeType="1" ShowAttributesCodeDetails="0" ShowAttributesPropertyModifiers="0" ShowAttributesType="0" ShowClassMemberConstraints="true" ShowEllipsisForUnshownMembers="0" ShowEmptyCompartments="0" ShowEnumerationLiteralType="1" ShowInitialAttributeValue="true" ShowOperationParameterDirection="false" ShowOperationProperties="false" ShowOperationRaisedExceptions="false" ShowOperationSignature="true" ShowOperationTemplateParameters="false" ShowOperationType="1" ShowOperationsCodeDetails="0" ShowOperationsParameters="0" ShowOperationsReturnType="0" ShowOwnerOption="3" ShowParameterNameInOperationSignature="true" ShowParametersCodeDetails="0" ShowReceptionType="1" ShowStereotypeIconName="0" ShowTypeOption="0" SuppressImplied1MultiplicityForAttribute="0" VisibilityStyle="1" Width="139" WpMbs="false" X="186" Y="291" ZOrder="2">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="15" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="FreeMove" Visible="true" Width="139" X="0" Y="0"/>
+					<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+					<CompartmentFont Value="none"/>
+				</Class>
+				<Class AttributeSortType="0" Background="rgb(122, 207, 245)" ConnectToPoint="false" ConnectionPointType="2" CoverConnector="false" DisplayAsRobustnessAnalysisIcon="true" EnumerationLiteralSortType="0" Foreground="rgb(0, 0, 0)" Height="282" Id="Vrrr5qGGAqESAQYe" InterfaceBall="false" KShDrOp="false" KSwCsMbSt="true" LShCmMl="false" LshRfAts="0" MShDrAt="false" MSwTpPts="true" MetaModelElement="Wyrr5qGGAqESAQW4" Model="Wyrr5qGGAqESAQW4" ModelElementNameAlignment="9" Name="Login" OperationSortType="0" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="0" ParentConnectorLineLength="0" PresentationOption="4" PrimitiveShapeType="0" ReceptionSortType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowAttributeType="1" ShowAttributesCodeDetails="0" ShowAttributesPropertyModifiers="0" ShowAttributesType="0" ShowClassMemberConstraints="true" ShowEllipsisForUnshownMembers="0" ShowEmptyCompartments="0" ShowEnumerationLiteralType="1" ShowInitialAttributeValue="true" ShowOperationParameterDirection="false" ShowOperationProperties="false" ShowOperationRaisedExceptions="false" ShowOperationSignature="true" ShowOperationTemplateParameters="false" ShowOperationType="1" ShowOperationsCodeDetails="0" ShowOperationsParameters="0" ShowOperationsReturnType="0" ShowOwnerOption="3" ShowParameterNameInOperationSignature="true" ShowParametersCodeDetails="0" ShowReceptionType="1" ShowStereotypeIconName="0" ShowTypeOption="0" SuppressImplied1MultiplicityForAttribute="0" VisibilityStyle="1" Width="161" WpMbs="false" X="478" Y="20" ZOrder="4">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="15" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="FreeMove" Visible="true" Width="161" X="0" Y="0"/>
+					<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+					<CompartmentFont Value="none"/>
+				</Class>
+				<Class AttributeSortType="0" Background="rgb(122, 207, 245)" ConnectToPoint="false" ConnectionPointType="2" CoverConnector="false" DisplayAsRobustnessAnalysisIcon="true" EnumerationLiteralSortType="0" Foreground="rgb(0, 0, 0)" Height="40" Id="drrr5qGGAqESAQYg" InterfaceBall="false" KShDrOp="false" KSwCsMbSt="true" LShCmMl="false" LshRfAts="0" MShDrAt="false" MSwTpPts="true" MetaModelElement="oKrr5qGGAqESAQXg" Model="oKrr5qGGAqESAQXg" ModelElementNameAlignment="9" Name="TextHandler" OperationSortType="0" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="0" ParentConnectorLineLength="0" PresentationOption="4" PrimitiveShapeType="0" ReceptionSortType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowAttributeType="1" ShowAttributesCodeDetails="0" ShowAttributesPropertyModifiers="0" ShowAttributesType="0" ShowClassMemberConstraints="true" ShowEllipsisForUnshownMembers="0" ShowEmptyCompartments="0" ShowEnumerationLiteralType="1" ShowInitialAttributeValue="true" ShowOperationParameterDirection="false" ShowOperationProperties="false" ShowOperationRaisedExceptions="false" ShowOperationSignature="true" ShowOperationTemplateParameters="false" ShowOperationType="1" ShowOperationsCodeDetails="0" ShowOperationsParameters="0" ShowOperationsReturnType="0" ShowOwnerOption="3" ShowParameterNameInOperationSignature="true" ShowParametersCodeDetails="0" ShowReceptionType="1" ShowStereotypeIconName="0" ShowTypeOption="0" SuppressImplied1MultiplicityForAttribute="0" VisibilityStyle="1" Width="205" WpMbs="false" X="454" Y="391" ZOrder="6">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="15" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="FreeMove" Visible="true" Width="205" X="0" Y="0"/>
+					<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+					<CompartmentFont Value="none"/>
+				</Class>
+				<Class AttributeSortType="0" Background="rgb(122, 207, 245)" ConnectToPoint="false" ConnectionPointType="2" CoverConnector="false" DisplayAsRobustnessAnalysisIcon="true" EnumerationLiteralSortType="0" Foreground="rgb(0, 0, 0)" Height="40" Id="Drrr5qGGAqESAQYi" InterfaceBall="false" KShDrOp="false" KSwCsMbSt="true" LShCmMl="false" LshRfAts="0" MShDrAt="false" MSwTpPts="true" MetaModelElement="UKrr5qGGAqESAQXm" Model="UKrr5qGGAqESAQXm" ModelElementNameAlignment="9" Name="ItemHandler" OperationSortType="0" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="0" ParentConnectorLineLength="0" PresentationOption="4" PrimitiveShapeType="0" ReceptionSortType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowAttributeType="1" ShowAttributesCodeDetails="0" ShowAttributesPropertyModifiers="0" ShowAttributesType="0" ShowClassMemberConstraints="true" ShowEllipsisForUnshownMembers="0" ShowEmptyCompartments="0" ShowEnumerationLiteralType="1" ShowInitialAttributeValue="true" ShowOperationParameterDirection="false" ShowOperationProperties="false" ShowOperationRaisedExceptions="false" ShowOperationSignature="true" ShowOperationTemplateParameters="false" ShowOperationType="1" ShowOperationsCodeDetails="0" ShowOperationsParameters="0" ShowOperationsReturnType="0" ShowOwnerOption="3" ShowParameterNameInOperationSignature="true" ShowParametersCodeDetails="0" ShowReceptionType="1" ShowStereotypeIconName="0" ShowTypeOption="0" SuppressImplied1MultiplicityForAttribute="0" VisibilityStyle="1" Width="206" WpMbs="false" X="154" Y="141" ZOrder="8">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="15" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="FreeMove" Visible="true" Width="206" X="0" Y="0"/>
+					<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+					<CompartmentFont Value="none"/>
+				</Class>
+				<Class AttributeSortType="0" Background="rgb(122, 207, 245)" ConnectToPoint="false" ConnectionPointType="2" CoverConnector="false" DisplayAsRobustnessAnalysisIcon="true" EnumerationLiteralSortType="0" Foreground="rgb(0, 0, 0)" Height="252" Id="jrrr5qGGAqESAQYk" InterfaceBall="false" KShDrOp="false" KSwCsMbSt="true" LShCmMl="false" LshRfAts="0" MShDrAt="false" MSwTpPts="true" MetaModelElement="yKrr5qGGAqESAQXu" Model="yKrr5qGGAqESAQXu" ModelElementNameAlignment="9" Name="funcitonalityPage" OperationSortType="0" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="0" ParentConnectorLineLength="0" PresentationOption="4" PrimitiveShapeType="0" ReceptionSortType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowAttributeType="1" ShowAttributesCodeDetails="0" ShowAttributesPropertyModifiers="0" ShowAttributesType="0" ShowClassMemberConstraints="true" ShowEllipsisForUnshownMembers="0" ShowEmptyCompartments="0" ShowEnumerationLiteralType="1" ShowInitialAttributeValue="true" ShowOperationParameterDirection="false" ShowOperationProperties="false" ShowOperationRaisedExceptions="false" ShowOperationSignature="true" ShowOperationTemplateParameters="false" ShowOperationType="1" ShowOperationsCodeDetails="0" ShowOperationsParameters="0" ShowOperationsReturnType="0" ShowOwnerOption="3" ShowParameterNameInOperationSignature="true" ShowParametersCodeDetails="0" ShowReceptionType="1" ShowStereotypeIconName="0" ShowTypeOption="0" SuppressImplied1MultiplicityForAttribute="0" VisibilityStyle="1" Width="171" WpMbs="false" X="771" Y="285" ZOrder="10">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="15" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="FreeMove" Visible="true" Width="171" X="0" Y="0"/>
+					<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+					<CompartmentFont Value="none"/>
+				</Class>
+				<Class AttributeSortType="0" Background="rgb(122, 207, 245)" ConnectToPoint="false" ConnectionPointType="2" CoverConnector="false" DisplayAsRobustnessAnalysisIcon="true" EnumerationLiteralSortType="0" Foreground="rgb(0, 0, 0)" Height="40" Id="Trrr5qGGAqESAQYm" InterfaceBall="false" KShDrOp="false" KSwCsMbSt="true" LShCmMl="false" LshRfAts="0" MShDrAt="false" MSwTpPts="true" MetaModelElement="DKrr5qGGAqESAQYQ" Model="DKrr5qGGAqESAQYQ" ModelElementNameAlignment="9" Name="ButtonHandler" OperationSortType="0" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="0" ParentConnectorLineLength="0" PresentationOption="4" PrimitiveShapeType="0" ReceptionSortType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowAttributeType="1" ShowAttributesCodeDetails="0" ShowAttributesPropertyModifiers="0" ShowAttributesType="0" ShowClassMemberConstraints="true" ShowEllipsisForUnshownMembers="0" ShowEmptyCompartments="0" ShowEnumerationLiteralType="1" ShowInitialAttributeValue="true" ShowOperationParameterDirection="false" ShowOperationProperties="false" ShowOperationRaisedExceptions="false" ShowOperationSignature="true" ShowOperationTemplateParameters="false" ShowOperationType="1" ShowOperationsCodeDetails="0" ShowOperationsParameters="0" ShowOperationsReturnType="0" ShowOwnerOption="3" ShowParameterNameInOperationSignature="true" ShowParametersCodeDetails="0" ShowReceptionType="1" ShowStereotypeIconName="0" ShowTypeOption="0" SuppressImplied1MultiplicityForAttribute="0" VisibilityStyle="1" Width="205" WpMbs="false" X="754" Y="141" ZOrder="12">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="15" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="FreeMove" Visible="true" Width="205" X="0" Y="0"/>
+					<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+					<CompartmentFont Value="none"/>
+				</Class>
+			</Shapes>
+			<Connectors>
+				<Containment Background="rgb(122, 207, 245)" ConnectorLabelOrientation="4" ConnectorLineJumps="4" ConnectorStyle="Follow Diagram" Foreground="rgb(0, 0, 0)" From="jrrr5qGGAqESAQYk" FromConnectType="0" FromPinType="1" FromShapeXDiff="0" FromShapeYDiff="0" Height="202" Id="7rrr5qGGAqESAQYo" ModelElementNameAlignment="9" PaintThroughLabel="2" RequestRebuild="false" RequestRebuildFromEnd="false" RequestRebuildToEnd="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" Selectable="true" ShowConnectorName="2" To="Trrr5qGGAqESAQYm" ToConnectType="0" ToPinType="1" ToShapeXDiff="0" ToShapeYDiff="0" UseFromShapeCenter="false" UseToShapeCenter="false" Width="100" X="807" Y="132" ZOrder="14">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="202" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="Invisible" Visible="false" Width="100" X="854" Y="232"/>
+					<Points>
+						<Point X="857.0" Y="284.0"/>
+						<Point X="857.0" Y="182.0"/>
+					</Points>
+				</Containment>
+				<Containment Background="rgb(122, 207, 245)" ConnectorLabelOrientation="4" ConnectorLineJumps="4" ConnectorStyle="Follow Diagram" Foreground="rgb(0, 0, 0)" From="Vrrr5qGGAqESAQYe" FromConnectType="0" FromPinType="1" FromShapeXDiff="0" FromShapeYDiff="0" Height="100" Id="Hrrr5qGGAqESAQYp" ModelElementNameAlignment="9" PaintThroughLabel="2" RequestRebuild="false" RequestRebuildFromEnd="false" RequestRebuildToEnd="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" Selectable="true" ShowConnectorName="2" To="Drrr5qGGAqESAQYi" ToConnectType="0" ToPinType="1" ToShapeXDiff="0" ToShapeYDiff="0" UseFromShapeCenter="false" UseToShapeCenter="false" Width="216" X="311" Y="110" ZOrder="16">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="100" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="Invisible" Visible="false" Width="216" X="311" Y="110"/>
+					<Points>
+						<Point X="477.0" Y="160.0"/>
+						<Point X="361.0" Y="160.0"/>
+					</Points>
+				</Containment>
+				<Containment Background="rgb(122, 207, 245)" ConnectorLabelOrientation="4" ConnectorLineJumps="4" ConnectorStyle="Follow Diagram" Foreground="rgb(0, 0, 0)" From="Vrrr5qGGAqESAQYe" FromConnectType="0" FromPinType="1" FromShapeXDiff="0" FromShapeYDiff="0" Height="187" Id="nrrr5qGGAqESAQYq" ModelElementNameAlignment="9" PaintThroughLabel="2" RequestRebuild="false" RequestRebuildFromEnd="false" RequestRebuildToEnd="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" Selectable="true" ShowConnectorName="2" To="drrr5qGGAqESAQYg" ToConnectType="0" ToPinType="1" ToShapeXDiff="0" ToShapeYDiff="0" UseFromShapeCenter="false" UseToShapeCenter="false" Width="100" X="509" Y="253" ZOrder="18">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="187" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="Invisible" Visible="false" Width="100" X="556" Y="346"/>
+					<Points>
+						<Point X="559.0" Y="303.0"/>
+						<Point X="559.0" Y="390.0"/>
+					</Points>
+				</Containment>
+			</Connectors>
+		</ClassDiagram>
+	</Diagrams>
+</Project>
