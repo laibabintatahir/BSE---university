@@ -1,0 +1,37 @@
+how to do parallel processing 
+-----------------------------
+time consuming work 
+make thread 
+or call it enumeration
+make method that return iEnumerator 
+jo kam update ma rakha tha wo ab is ma dalna ha
+-exploation
+-network connection
+-update or upload on server 
+
+how to call?
+-startcoroutine(Methodname())
+timeconsuming and parallel to the update method  
+
+invoke() and coroutine ??
+call the method after sometime 3s  -- shoot enemy's and they all die (make them after some sec)
+start the method parallel (for timeconsuming) 
+-----------------------------------------------------------------------------------------------------------------
+if the refernce is null but you do work?
+to stop from crashing the game 
+-----------------------------------------
+how to reduce the health when enemy dies ?
+or enemy dies when hits = 3
+-------------------------------------
+make enemyHealth script attach to enemy--awake()
+reducehealth 
+---------------------------------------
+rotation according to direction
+how can we find the direction
+health bar kis direction ko face kary 
+canvas.transform.position  - camera.transform.position
+--------------------------------------------
+how to make player health?
+HUD 
+
+
